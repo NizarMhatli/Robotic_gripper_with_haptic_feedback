@@ -11,7 +11,7 @@ Robotiq f2-85 robotic gripper: https://robotiq.com/products/2f85-140-adaptive-ro
 
 # packages used: 
 
-= python package for touchence sensor 
+- python package for touchence sensor 
 - python pckage to control Robotiq gripper 
 
 # project inspired by this video from touchence main channel: 
